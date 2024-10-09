@@ -24,7 +24,7 @@
 <a href="https://github.com/ihibti/42-tc-push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/ihibti/42-tc-pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/ihibti/42-tc-so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="https://github.com/ihibti/42-tc-philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/ihibti/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/ihibti/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/ihibti/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/ihibti/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
