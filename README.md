@@ -1,8 +1,8 @@
-<h1 align="center"> I'm Ismael 💻 </h1>
+<h1 align="center"> Hi ,i'm Ismael 💻 </h1>
 <h3 align="center">Cyber-security enthusiast and student </h3>
 
 
-- 🔭 I’m currently working on C projects **IRC and CPP modules**
+- 🔭 I’m currently working on C++ projects **IRC and CPP modules**
 
 - 🌱 I’m currently learning ** CPP , Networks, Pentesting**
 
