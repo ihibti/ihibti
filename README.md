@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **ihibti@student.42.fr**\
 - 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&layout=donut-vertical)]
 <!-- 
 <div align="center">
 
@@ -58,6 +58,6 @@
 
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
 -->
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
