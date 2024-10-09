@@ -30,9 +30,9 @@
 <a href="https://github.com/ihibti/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
 <a href="https://github.com/ihibti/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
 
-- 📫 How to reach me **ihibti@student.42.fr**\
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&layout=donut-vertical)]
+📫 How to reach me **ihibti@student.42.fr**
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&layout=donut-vertical)
 <!-- 
 <div align="center">
 
