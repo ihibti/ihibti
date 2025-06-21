@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-- 🔭 **Currently working on:** C++ projects (IRC, CPP Modules)
+- 🔭 **Currently working on:** libasm,snowcrash and ft_ping(low level, and cybersecurity projects) 
 - 🌱 **Learning:** Cybersecurity, Networks, Pentesting, Advanced C++
 - 💡 **Main skills:** C, C++, Python, Bash, Java, JavaScript
 - 🎯 **Looking to grow in:** Cybersecurity & Secure Software Development
