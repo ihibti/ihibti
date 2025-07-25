@@ -4,18 +4,18 @@
 ---
 
 <p align="center">
-  🚀 Passionate about system programming, cybersecurity, and building impactful software.<br>
-  I'm a 42 Network student with a strong background in C and C++. Currently, I'm expanding my expertise into AI and it's implementations.
+  🚀 Passionate about AI, system programming, cybersecurity, and building impactful software.<br>
+  I'm a 42 Network student with a strong background in C and C++. Currently, I'm deepening my expertise in AI—especially machine learning, deep learning, and their real-world applications.
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🔭 **Currently working on:** inception of things,cloud1 and DSLR 
-- 🌱 **Learning:** scaling, Networks, Advanced C++
-- 💡 **Main skills:** C, C++, Python, Bash, Java, JavaScript, Git, Docker, 
-- 🎯 **Looking to grow in:** AI & Secure Software Development
+- 🔭 **Currently working on:** inception of things, cloud1, DSLR, and exploring practical AI projects
+- 🌱 **Learning:** Machine Learning, Deep Learning, Neural Networks, AI Ethics, Scaling, Networks, Advanced C++
+- 💡 **Main skills:** C, C++, Python, Bash, Java, JavaScript, Git, Docker
+- 🎯 **Looking to grow in:** AI Research, Applied Machine Learning, Secure & Ethical AI Development
 
 ---
 
