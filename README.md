@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Ismael 👋</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist | C & C++ Developer | 42 Student</h3>
+<h3 align="center">Aspiring AI specialist | C & C++ Developer | 42 Student</h3>
 
 ---
 
 <p align="center">
   🚀 Passionate about system programming, cybersecurity, and building impactful software.<br>
-  I'm a 42 Network student with a strong background in C and C++. Currently, I'm expanding my expertise into cybersecurity and networking.
+  I'm a 42 Network student with a strong background in C and C++. Currently, I'm expanding my expertise into AI and it's implementations.
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🔭 **Currently working on:** libasm,snowcrash and ft_ping(low level, and cybersecurity projects) 
-- 🌱 **Learning:** Cybersecurity, Networks, Advanced C++
+- 🔭 **Currently working on:** inception of things,cloud1 and DSLR 
+- 🌱 **Learning:** scaling, Networks, Advanced C++
 - 💡 **Main skills:** C, C++, Python, Bash, Java, JavaScript, Git, Docker, 
-- 🎯 **Looking to grow in:** Cybersecurity & Secure Software Development
+- 🎯 **Looking to grow in:** AI & Secure Software Development
 
 ---
 
