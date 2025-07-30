@@ -35,7 +35,7 @@
     <td>Raycasting 3D game engine (like Wolfenstein 3D), built with C and OpenGL.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ihibti/ft_transcendance"><b>ft_transcendance</b></a></td>
+    <td><a href="https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence"><b>ft_transcendance</b></a></td>
     <td>Full-stack web app combining game development, authentication, and real-time chat.</td>
   </tr>
   <tr>
