@@ -69,7 +69,7 @@ Linux, Git, Docker, SQL, Networking, Security Tools
   <a href="https://github.com/ihibti/cub3D"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="cub3D"></a>
   <a href="https://github.com/ihibti/Cpp_Modules"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP Modules"></a>
   <a href="https://github.com/ihibti/inception"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="Inception"></a>
-  <a href="https://github.com/ihibti/ft_transcendence"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendance"></a>
+  <a href="https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendance"></a>
   <a href="https://github.com/ihibti/ft_irc"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png" alt="IRC"></a>
 </p>
 ---
