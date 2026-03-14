@@ -1,91 +1,121 @@
-<h1 align="center">Hi, I'm Ismael 👋</h1>
-<h3 align="center">Aspiring AI specialist | C & C++ Developer | 42 Student</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:c9885e&height=220&section=header&text=Ismael%20Hibti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20Applications%20%C2%B7%20Rust&descSize=16&descColor=cccccc&descAlignY=55" width="100%"/>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hibti/)
+[![42](https://img.shields.io/badge/42_Network-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
+[![Email](https://img.shields.io/badge/ihibti@student.42.fr-c9885e?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ihibti@student.42.fr)
+
+</div>
+
+<br>
 
 <p align="center">
-  🚀 Passionate about AI, system programming, cybersecurity, and building impactful software.<br>
-  I'm a 42 Network student with a strong background in C and C++. Currently, I'm deepening my expertise in AI—especially machine learning, deep learning, and their real-world applications.
+Math at UQAM, computer science at 42 Network. Software engineer at <a href="https://irmamatch.com">IRMA Match</a>.<br>
+I like building things, writing Rust, and training BJJ.
 </p>
 
----
-
-## 💼 About Me
-
-- 🔭 **Currently working on:** inception of things, cloud1, DSLR, and exploring practical AI projects
-- 🌱 **Learning:** Machine Learning, Deep Learning, Neural Networks, AI Ethics, Scaling, Networks, Advanced C++
-- 💡 **Main skills:** C, C++, Python, Bash, Java, JavaScript, Git, Docker
-- 🎯 **Looking to grow in:** AI Research, Applied Machine Learning, Secure & Ethical AI Development
+<br>
 
 ---
 
-## 🌟 Featured Projects
+<h3 align="center">What I'm Building</h3>
+
+<br>
 
 <table>
-  <tr>
-    <td><a href="https://github.com/ihibti/minihell"><b>minishell</b></a></td>
-    <td>Custom Unix shell in C, supporting pipes, redirections, and built-in commands.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ihibti/inception"><b>inception</b></a></td>
-    <td>Docker-based system administration project: deploying services with Docker Compose.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ihibti/cub3D"><b>cub3d</b></a></td>
-    <td>Raycasting 3D game engine (like Wolfenstein 3D), built with C and OpenGL.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence"><b>ft_transcendance</b></a></td>
-    <td>Full-stack web app combining game development, authentication, and real-time chat.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ihibti/ft_irc"><b>irc</b></a></td>
-    <td>Internet Relay Chat (IRC) server implementation in C++.</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center"><a href="https://irmamatch.com">IRMA Match</a></h4>
+
+<p align="center">
+Leveraging AI to simplify and improve access to public procurement. I build the classification, enrichment, and matching pipelines — pairing the right teams to win tender calls in architecture-related fields.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center"><a href="https://github.com/ihibti/hypertube-V2">Hypertube V2</a></h4>
+
+<p align="center">
+A streaming platform built as a Rust microservices architecture. Four backend services communicating over gRPC, streaming tokens for data plane separation, and Kubernetes orchestration.
+</p>
+
+</td>
+</tr>
 </table>
 
----
-
-## 🛠️ Languages & Tools
-
-C, C++, Python, Bash, Java, JavaScript  
-Linux, Git, Docker, SQL, Networking, Security Tools
+<br>
 
 ---
 
-## 📚 School Projects
+<h3 align="center">cub3D</h3>
 
 <p align="center">
-  <a href="https://github.com/ihibti/42-tc-libft"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="Libft"></a>
-  <a href="https://github.com/ihibti/42-tc-get_next_line"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="Get Next Line"></a>
-  <a href="https://github.com/ihibti/42-tc-ft_printf"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="ft_printf"></a>
-  <a href="https://github.com/ihibti/42-tc-Born2beroot"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="Born2beroot"></a>
-  <a href="https://github.com/ihibti/42-tc-push_swap"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push Swap"></a>
-  <a href="https://github.com/ihibti/42-tc-pipex"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex"></a>
-  <a href="https://github.com/ihibti/42-tc-so_long"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png" alt="So Long"></a>
-  <a href="https://github.com/ihibti/philosophers"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png" alt="Philosophers"></a>
-  <a href="https://github.com/ihibti/minihell"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="minishell"></a>
-  <a href="https://github.com/ihibti/net_practice"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="net_practice"></a>
-  <a href="https://github.com/ihibti/cub3D"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="cub3D"></a>
-  <a href="https://github.com/ihibti/Cpp_Modules"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP Modules"></a>
-  <a href="https://github.com/ihibti/inception"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="Inception"></a>
-  <a href="https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendance"></a>
-  <a href="https://github.com/ihibti/ft_irc"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png" alt="IRC"></a>
+One of my first C projects and still one of my favorites. Raycasting engine inspired by Wolfenstein 3D — texture mapping, sprite rendering, collision detection, all from scratch.<br>
+Turn the sound on and look around.
 </p>
+
+<div align="center">
+
+https://github.com/user-attachments/assets/7c3de487-aca8-4667-bbb7-c9f742d86ae1
+
+</div>
+
+<br>
+
 ---
 
-## 📈 GitHub Stats
+<h3 align="center">42 Projects</h3>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/ihibti/cub3D"><b>cub3D</b></a><br>
+<sub>Raycasting 3D engine in C</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence"><b>ft_transcendence</b></a><br>
+<sub>Full-stack real-time web app</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/ihibti/minihell"><b>minishell</b></a><br>
+<sub>Unix shell — pipes, redirections, builtins</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/ihibti/ft_irc"><b>ft_irc</b></a><br>
+<sub>IRC server in C++</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihibti&layout=donut-vertical&theme=react" alt="Top Languages">
+42 student wanting to learn Rust? Check out <a href="https://github.com/ihibti/leetcode-rust"><b>leetcode-rust</b></a>.
 </p>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- Email: **ihibti@student.42.fr**
+<br>
 
----
+[![Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,python,postgres,docker,kubernetes,react,linux&theme=dark)](https://skillicons.dev)
 
-<sub>Let’s connect! I’m always open to collaboration, learning, and new opportunities.</sub>
+<br><br>
+
+**ihibti@student.42.fr** · [LinkedIn](https://www.linkedin.com/in/ismael-hibti/) · building [irmamatch.com](https://irmamatch.com)
+
+<br>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9885e,100:0d1117&height=120&section=footer" width="100%"/>
