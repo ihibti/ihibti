@@ -14,7 +14,7 @@
 
 <p align="center">
 Math at UQAM, computer science at 42 Network. Software engineer at <a href="https://irmamatch.com">IRMA Match</a>.<br>
-I like building things, writing Rust, and training BJJ.
+I like building things,  rust, and  BJJ.
 </p>
 
 <br>
