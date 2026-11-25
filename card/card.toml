@@ -1,0 +1,29 @@
+[card]
+width = 1050
+height = 600
+offset = [40, 26]
+bottom = 74
+stock = "#E6DDC8"
+ink = "#1B1915"
+font = "PlayfairDisplaySC-Regular.ttf"
+size_scale = 0.94
+watermark_font = "CormorantSC-SemiBold.ttf"
+alt = "Ismael Hibti, Founding Engineer at IRMA Match. Harness engineering. Paris, France."
+watermark = { text = "IH", size = 340, tracking = -0.04, x = 525, y = 438, anchor = "middle" }
+lines = [
+  { text = "linkedin.com/in/ismael-hibti", size = 16.5, tracking = 0.14, x = 64, y = 84, anchor = "start" },
+  { text = "Paris, France", size = 16.5, tracking = 0.14, x = 986, y = 84, anchor = "end" },
+  { text = "IRMA Match", size = 22, tracking = 0.26, x = 525, y = 196, anchor = "middle" },
+  { text = "Harness Engineering", size = 14.5, tracking = 0.32, x = 525, y = 228, anchor = "middle" },
+  { text = "Ismael Hibti", size = 50, tracking = 0.075, x = 525, y = 336, anchor = "middle" },
+  { text = "Founding Engineer", size = 17.5, tracking = 0.30, x = 525, y = 381, anchor = "middle" },
+  { text = "ihibti@student.42.fr", size = 16, tracking = 0.16, x = 525, y = 528, anchor = "middle" },
+]
+
+[signature]
+text = "Ismael"
+font = "Allura-Regular.ttf"
+size = 118
+pad = 6
+light = "#1F2328"
+dark = "#E6E1D6"
