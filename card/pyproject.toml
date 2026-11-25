@@ -1,0 +1,19 @@
+[project]
+name = "profile-card"
+version = "0.1.0"
+description = "Typesets the profile card and signature as self-contained SVG."
+requires-python = ">=3.12"
+dependencies = ["fonttools>=4.50"]
+
+[project.scripts]
+profile-card = "profile_card.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
