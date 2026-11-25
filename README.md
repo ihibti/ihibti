@@ -6,9 +6,8 @@ I'm Ismael, founding engineer at [IRMA Match](https://irmamatch.com), in Paris.
 
 I build harnesses for agents that read public tenders, extract and normalize what matters, and crawl the web for the architecture and engineering firms that bid on them, so people spend their intelligence on the decision instead of the search. Mistral when possible.
 
-In November 2026, my team finished 5th out of 80 at the [European AI Championship](https://github.com/ihibti/euro-ai-championship-2026). Most of the work ran overnight, done by coding agents inside a harness I built that capped what they could spend and submit.
 
-I try to contribute to open source :).
+I try to contribute to open source and participate to hackathons when i can.
 
 I studied math at UQAM and computer science at 42, and I still think fundamentals compound. I've written [linear algebra from scratch in Rust](https://github.com/ihibti/matrix-rs), a [Unix shell](https://github.com/ihibti/minishell), an [IRC server](https://github.com/ihibti/ft_irc), a [real-time Pong](https://github.com/42-Cursus-Ft-transcendence/Ft_transcendence), and a [raycasting engine](https://github.com/ihibti/cub3d), still my favourite:
 
