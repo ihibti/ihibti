@@ -1,3 +1,5 @@
+from xml.sax.saxutils import escape
+
 from .spec import Spec
 from .typeset import Face, Run, fmt
 
@@ -13,7 +15,7 @@ def card_svg(spec: Spec, face: Face, watermark: Face) -> str:
     wm = card.watermark
     mark = Run(watermark, wm.text, wm.size, wm.tracking).path(wm.x, wm.y, wm.anchor)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {cw} {ch}" width="{cw}" height="{ch}" role="img" aria-labelledby="t">
-<title id="t">{card.alt}</title>
+<title id="t">{escape(card.alt)}</title>
 <defs>
 <filter id="drop" x="-10%" y="-10%" width="120%" height="135%">
 <feGaussianBlur in="SourceAlpha" stdDeviation="17"/><feOffset dy="20" result="o1"/>
@@ -64,7 +66,7 @@ def signature_svg(spec: Spec, face: Face, color: str) -> str:
     pad = sig.pad
     d = run.path(-x0 + pad, -y0 + pad)
     w, h = (x1 - x0) + 2 * pad, (y1 - y0) + 2 * pad
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {fmt(w)} {fmt(h)}" width="{fmt(w)}" height="{fmt(h)}" role="img" aria-label="{sig.text}"><path d="{d}" fill="{color}"/></svg>
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {fmt(w)} {fmt(h)}" width="{fmt(w)}" height="{fmt(h)}" role="img" aria-label="{escape(sig.text, {'"': "&quot;"})}"><path d="{d}" fill="{color}"/></svg>
 """
 
 

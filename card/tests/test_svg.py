@@ -3,6 +3,7 @@ import re
 import subprocess
 import sys
 import xml.etree.ElementTree as ET
+from dataclasses import replace
 from pathlib import Path
 
 import pytest
@@ -43,6 +44,20 @@ def test_signature_is_self_contained(spec):
     out = signature_svg(spec, Face.load(FONTS / spec.signature.font), spec.signature.light)
     root = parse_self_contained(out)
     assert root.get("viewBox").startswith("0 0 ")
+
+
+def test_card_title_escapes_markup(spec):
+    alt = 'R&D <harness> "x"'
+    edited = replace(spec, card=replace(spec.card, alt=alt))
+    out = card_svg(edited, Face.load(FONTS / spec.card.font), Face.load(FONTS / spec.card.watermark_font))
+    assert ET.fromstring(out).find(f"{NS}title").text == alt
+
+
+def test_signature_label_escapes_markup(spec):
+    text = 'R&D "y" <x'
+    edited = replace(spec, signature=replace(spec.signature, text=text))
+    out = signature_svg(edited, Face.load(FONTS / spec.signature.font), spec.signature.light)
+    assert ET.fromstring(out).get("aria-label") == text
 
 
 def test_generation_is_deterministic(tmp_path):
