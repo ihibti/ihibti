@@ -4,7 +4,7 @@
 
 I'm Ismael, founding engineer at [IRMA Match](https://irmamatch.com), in Paris.
 
-I build harnesses for agents that read public tenders, extract and normalize what matters, and crawl the web for the architecture and engineering firms that bid on them, so people spend their intelligence on the decision instead of the search. The agents run on Mistral models.
+I build harnesses for agents that read public tenders, extract and normalize what matters, and crawl the web for the architecture and engineering firms that bid on them, so people spend their intelligence on the decision instead of the search. Mistral when possible.
 
 In November 2026, my team finished 5th out of 80 at the [European AI Championship](https://github.com/ihibti/euro-ai-championship-2026). Most of the work ran overnight, done by coding agents inside a harness I built that capped what they could spend and submit.
 
