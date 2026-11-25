@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/7c3de487-aca8-4667-bbb7-c9f742d86ae1
 
 Off the keyboard, I train jiu-jitsu. On it, I reach for Rust whenever I can.
 
-**[Write to me ›](mailto:ihibti@student.42.fr)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ismael-hibti/)
+Write to me at **[ihibti@student.42.fr](mailto:ihibti@student.42.fr)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ismael-hibti/)
 
 <br>
 
