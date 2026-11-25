@@ -16,10 +16,3 @@ https://github.com/user-attachments/assets/7c3de487-aca8-4667-bbb7-c9f742d86ae1
 Off the keyboard, I train jiu-jitsu. On it, I reach for Rust whenever I can.
 
 
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg">
-  <img src="assets/signature-light.svg" height="52" alt="Ismael">
-</picture>
