@@ -4,7 +4,7 @@
 
 I'm Ismael, founding engineer at [IRMA Match](https://irmamatch.com), in Paris.
 
-I build harnesses for agents that read public tenders, extract and normalize what matters, and crawl the web for the architecture and engineering firms that bid on them, so people spend their intelligence on the decision instead of the search. Mistral when possible.
+I build harnesses for agents that read public tenders, extract and normalize what matters, and crawl the web for the architecture and engineering firms that bid on them, so people spend their intelligence on the decision instead of the search. Mistral powered when possible.
 
 
 I try to contribute to open source and participate to hackathons when i can.
